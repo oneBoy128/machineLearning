@@ -1,0 +1,1 @@
+BERT_PATH = '/home/wbt/projects/bert-base-cased'
